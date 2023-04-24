@@ -1,5 +1,5 @@
 # alura-plus
-
+Matrial de estudo da plataforma alura 
 ## Ferramentas utilizadas:
 
 * HTML
